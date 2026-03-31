@@ -23,4 +23,4 @@ This repository demonstrates how I used a coding assistant to generate initial c
 During this exercise, I realized that AI can quickly generate structured content, but it often needs human revision to make it more specific and accurate. I found it helpful for generating ideas, but I still needed to adjust the content to better reflect my own background and interests. One thing I found interesting was how easily AI can produce clear writing, but also how generic it can sound without personal edits.
 
 ## Video Walkthrough
-[Paste your YouTube or Vimeo link here]
+[https://youtu.be/L5FyL0zx15c]
